@@ -1,21 +1,21 @@
 #API
 Basic API with Flask
 
-##Installation
+## Installation
 
 - requires [Python](https://www.python.org/) 3.9++ to use it.
 
 
-##Usage
+## Usage
 
 -Open [Git](https://git-scm.com/downloads) bash on Desktop or use your terminal on IDE
 
 ```bash 
-	git clone git@github.com:Rzkdriech/API-YGY.git 
+git clone git@github.com:Rzkdriech/API-YGY.git 
 ```
 
 ```bash 
-	cd API-YGY 
+cd API-YGY 
 ```
 
 ```pip
