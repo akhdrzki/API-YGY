@@ -1,4 +1,4 @@
-#API
+# API
 Basic API with Flask
 
 ## Installation
